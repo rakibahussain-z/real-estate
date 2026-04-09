@@ -35,8 +35,7 @@ The dataset used in this project contains information about real estate properti
     ```
 3. Run the Jupyter notebooks to explore the data, preprocess it, train machine learning models, and evaluate their performance.
 
-## Contributors
-- [Vignesh prabhu](https://github.com/vignesh05p)
+
 
 ## Acknowledgements
 - This project is inspired by similar real estate prediction projects available in the machine learning community.
